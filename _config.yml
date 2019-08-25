@@ -1,11 +1,11 @@
 # Site settings
-author: Motoaki Sumi
-title: 
+author: M. Sumi
+title: Software Engineering 
 header-img: img/home-bg.png
 email: msumi@mba2019.hbs.edu
-copyright_name: Motoaki Sumi
+copyright_name: M. Sumi
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Flatiron School
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  motoakisumi
